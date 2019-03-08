@@ -1,0 +1,36 @@
+Treasure has been grabbed.
+Grabbed Warrior	::	Super Warrior A
+Grabbed Time	::	 23 : 26 : 54
+
+Treasure has been grabbed.
+Grabbed Warrior	::	Super Warrior A
+Grabbed Time	::	 23 : 27 : 14
+
+Treasure has been grabbed.
+Grabbed Warrior	::	Warrior B
+Grabbed Time	::	 19 : 34 : 55
+
+Treasure has been grabbed.
+Grabbed Warrior	::	Super Warrior B
+Grabbed Time	::	 23 : 25 : 21
+
+Treasure has been grabbed.
+Grabbed Warrior	::	Super Warrior A
+Grabbed Time	::	 10 : 17 : 43
+
+Treasure has been grabbed.
+Grabbed Warrior	::	Super Warrior A
+Grabbed Time	::	 10 : 19 : 10
+
+Treasure has been grabbed.
+Grabbed Warrior	::	Super Warrior B
+Grabbed Time	::	 10 : 19 : 31
+
+Treasure has been grabbed.
+Grabbed Warrior	::	Warrior A
+Grabbed Time	::	 00 : 04 : 33
+
+Treasure has been grabbed.
+Grabbed Warrior	::	Warrior B
+Grabbed Time	::	 11 : 23 : 58
+

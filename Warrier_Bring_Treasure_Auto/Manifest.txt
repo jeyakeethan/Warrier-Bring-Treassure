@@ -1,0 +1,3 @@
+Main-Class: Warrier_Bring_Treasure_Auto.final_WBT.GameWarriorBringTreasure
+Class-Path: .
+
